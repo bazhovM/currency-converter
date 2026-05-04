@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": "2026-04-28 20:01:05",
+    "from_currency": "USD",
+    "to_currency": "RUB",
+    "amount": 100.0,
+    "rate": 74.9268,
+    "result": 7492.68
+  }
+]
